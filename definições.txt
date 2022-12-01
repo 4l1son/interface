@@ -1,0 +1,12 @@
+
+1.Conjunto: Conjunto é uma coleção de zero ou mais objetos distintos, chamados elementos do conjunto, os quais não possuem qualquer ordem associada.
+
+2.Elemento: Elemento de um conjunto , é uma lista de algo que compõe o conjunto . Um exemplo , o conjunto das vogais {a,e,i,o,u} seus elemento são a,e,i,o,u.
+
+3.Relação de pertinencia: Relação de pertinencia, se um determinado elemento a é um elemento do conjunto A, tal fato é denotado por a ∈ A , que é interpretado como a pertence ao conjunto A.
+
+4.Relação de continencia: Relação de continencia , se todos os elementos de um conjunto A tambem são elementos do conjunto B , então se afirma que A esta contido em B e denota-se por A ⊂ B
+
+5.União: É uma operação binaria que quando aplicado a dois conjuntos distintos resulta em um novo conjunto onde um elemento pertence a um conjunto ou a outro conjunto.
+
+6.Intersecção: Resulta em um conjunto constituido pelos elementos que pertencem simultaneamente aos dois conjuntos.
